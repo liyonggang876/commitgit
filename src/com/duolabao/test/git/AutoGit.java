@@ -5,5 +5,6 @@ public class AutoGit {
         System.out.println("This is git");
         System.out.println("ttt");
         System.out.println("aaa");
+
     }
 }
